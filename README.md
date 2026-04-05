@@ -70,7 +70,8 @@ python main.py
 
 ## 📸 Screenshots
 
-(Add your project screenshots here)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/058dc3c1-66a0-4543-974d-371e3ef2caab" />
+
 
 ---
 
